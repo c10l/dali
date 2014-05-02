@@ -16,7 +16,7 @@ Gem::Specification.new do |gem|
     Dali is a command-line utility that taps to a Logstash TCP output and prints
     formatted log lines to the console.
 
-    Originally it was going to be called tailstash as it is a tool that tails
+    Originally I was going to call it tailstash as it is a tool that tails
     logstash's output. Instead, it's named after the famous Spanish painter
     because of his infamous tail-looking moustache.
   EOM
